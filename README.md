@@ -1,7 +1,7 @@
 # MVC-Database-Disign-MusicWebsite
 
 For this project it was created with the `C#` with `OOP` and interacting `MSSQL` with a `database First`. 
-The programs used bck-end skills include Microsoft Visual Studio and Microsoft SQL Server Management Studio. 
+The programs used back-end skills include Microsoft Visual Studio and Microsoft SQL Server Management Studio. 
 
 ## Set-up
 Create four `Table`:
